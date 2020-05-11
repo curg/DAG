@@ -95,4 +95,4 @@ DFS-TS(v, R){
 
 1. 방향성 비순환 그래프 | hash.kr | http://wiki.hash.kr/index.php/%EB%B0%A9%ED%96%A5%EC%84%B1_%EB%B9%84%EC%88%9C%ED%99%98_%EA%B7%B8%EB%9E%98%ED%94%84
 2. DAG 알고리즘이란 무엇인가? DAG(Directed Acyclic Graph)는 과연 솔루션이 될 수 있을까? | cryptodreamers | steemit | https://steemit.com/dag/@cryptodreamers/dag-dag-directed-acyclic-graph
-
+3. [알고리즘] DAG와 위상 순서 | 마스터누누 | https://new93helloworld.tistory.com/182
