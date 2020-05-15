@@ -33,6 +33,8 @@ Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 
 - 표준 라이브러리 외에도 수천가지 컴포넌트(개별 프로그램과 모듈부터 패키지 및 전체 응용 프로그램 개발 프레임워크)가 늘어나도 있는데 파이썬 패키지 색인에서 이를 얻을 수 있다.<br><br>
 
+**Documentation TBA**
+
 ## Reference
 
 1. 모듈과 라이브러리 : https://blue-shadow.tistory.com/101
