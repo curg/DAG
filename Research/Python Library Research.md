@@ -14,7 +14,8 @@ Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 - 모듈은 ‘현재 폴더 - Python PATH (환경변수) - 파이썬 설치 경로’ 순으로 검색하여 사용할 수 있다.
 
 **Python PATH 환경변수 확인 방법**
-<img src="/lukepark327/DAG/blob/master/Research/sys%20path.png?raw=true" alt="sys path.png" width="70%"></img>
+<img width="860" alt="sys path" src="https://user-images.githubusercontent.com/52089296/82018664-b99a3600-96c0-11ea-9317-6d6d0304c312.png">
+
 
 **Module을 불러와 사용하는 방법**
 - import 모듈명
