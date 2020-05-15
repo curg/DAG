@@ -5,16 +5,19 @@ Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 ***
 ## 윤성 조사 부분 (진행중, 조사 방향 맞는지 확인 필요)
 
-자주 사용되는 로직을 재사용하기 편리하도록 정리한 일련의 코드 집합 즉, 라이브러리를 만들기 위해 모듈과 패키지 만드는 방법을 알아야 한다. 변수, 함수, 클래스 등을 모아 놓은 스크립트 파일인 모듈을 여러 개로 묶어 패키지로 만들고, 이를 이용하여 라이브러리를 구성하도록 한다.  
+자주 사용되는 로직을 재사용하기 편리하도록 정리한 일련의 코드 집합 즉, 라이브러리를 만들기 위해 모듈과 패키지 만드는 방법을 알아야 한다. 변수, 함수, 클래스 등을 모아 놓은 스크립트 파일인 모듈을 여러 개로 묶어 패키지로 만들고, 이를 이용하여 라이브러리를 구성하도록 한다.
+
 
 ## Python Module
 - 모든 모듈은 .py 확장자 파일로 관리된다.
 - 모듈 속에 함수, 클래스, 변수가 포함될 수 있다.
 - 여러 모듈을 패키지로 묶을 수 있다.
-- 모듈은 ‘현재 폴더 - Python PATH (환경변수) - 파이썬 설치 경로’ 순으로 검색하여 사용할 수 있다.  
+- 모듈은 ‘현재 폴더 - Python PATH (환경변수) - 파이썬 설치 경로’ 순으로 검색하여 사용할 수 있다.
+
 
 ## Python PATH 환경변수 확인 방법
-<img width="860" alt="sys path" src="https://user-images.githubusercontent.com/52089296/82018664-b99a3600-96c0-11ea-9317-6d6d0304c312.png">  
+<img width="860" alt="sys path" src="https://user-images.githubusercontent.com/52089296/82018664-b99a3600-96c0-11ea-9317-6d6d0304c312.png">
+
 
 ## Module을 불러와 사용하는 방법
 - import 모듈명
@@ -22,9 +25,11 @@ Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 - import 모듈명 as 모듈  // 함수 사용시 모듈.함수명(파라미터)
 - from 모듈명 import 함수명  // 함수 사용시 함수명(파라미터)
 - from 모듈명 import 함수명 as 함수
-- from 모듈명 import *  // 모듈 내 모든 내용 포함  
+- from 모듈명 import *  // 모듈 내 모든 내용 포함
 
-<img width="856" alt="import" src="https://user-images.githubusercontent.com/52089296/82019440-32e65880-96c2-11ea-8a4a-93d68480b7a5.png">  
+
+<img width="856" alt="import" src="https://user-images.githubusercontent.com/52089296/82019440-32e65880-96c2-11ea-8a4a-93d68480b7a5.png">
+
 
 ## Reference
 
