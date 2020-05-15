@@ -13,11 +13,10 @@ Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 - 여러 모듈을 패키지로 묶을 수 있다.
 - 모듈은 ‘현재 폴더 - Python PATH (환경변수) - 파이썬 설치 경로’ 순으로 검색하여 사용할 수 있다.
 
-**Python PATH 환경변수 확인 방법**
+## Python PATH 환경변수 확인 방법
 <img width="860" alt="sys path" src="https://user-images.githubusercontent.com/52089296/82018664-b99a3600-96c0-11ea-9317-6d6d0304c312.png">
 
-
-**Module을 불러와 사용하는 방법**
+## Module을 불러와 사용하는 방법
 - import 모듈명
 - import 모듈명1, 모듈명2, 모듈명3
 - import 모듈명 as 모듈  // 함수 사용시 모듈.함수명(파라미터)
@@ -25,7 +24,7 @@ Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 - from 모듈명 import 함수명 as 함수
 - from 모듈명 import *  // 모듈 내 모든 내용 포함
 
-**Reference**
+## Reference
 
 1. 모듈과 라이브러리 : https://blue-shadow.tistory.com/101
 2. 파이썬 모듈 사용법 & 모듈 만들기 : https://withcoding.com/83
