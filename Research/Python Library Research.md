@@ -24,7 +24,7 @@ Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 - from 모듈명 import 함수명 as 함수
 - from 모듈명 import *  // 모듈 내 모든 내용 포함  
 
-<img width="860" alt="sys path" src="https://user-images.githubusercontent.com/52089296/82019219-ccf9d100-96c1-11ea-972a-f3382cd3e0d3.png">  
+<img width="856" alt="import" src="https://user-images.githubusercontent.com/52089296/82019440-32e65880-96c2-11ea-8a4a-93d68480b7a5.png">  
 
 ## Reference
 
