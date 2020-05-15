@@ -3,7 +3,7 @@
 Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 
 ***
-## 윤성 조사 부분
+## 윤성 조사 부분 (진행중, 조사 방향 맞는지 확인 필요)
 
 자주 사용되는 로직을 재사용하기 편리하도록 정리한 일련의 코드 집합 즉, 라이브러리를 만들기 위해 모듈과 패키지 만드는 방법을 알아야 한다. 변수, 함수, 클래스 등을 모아 놓은 스크립트 파일인 모듈을 여러 개로 묶어 패키지로 만들고, 이를 이용하여 라이브러리를 구성하도록 한다.
 
@@ -14,7 +14,7 @@ Python으로 Library를 만들기 위한 정략적인 체계 사전 조사
 - 모듈은 ‘현재 폴더 - Python PATH (환경변수) - 파이썬 설치 경로’ 순으로 검색하여 사용할 수 있다.
 
 **Python PATH 환경변수 확인 방법**
-<img src="/lukepark327/DAG/blob/master/Research/sys%20path.png?raw=true" alt="sys path.png">
+<img src="/lukepark327/DAG/blob/master/Research/sys%20path.png?raw=true" alt="sys path.png" width="70%"></img>
 
 **Module을 불러와 사용하는 방법**
 - import 모듈명
