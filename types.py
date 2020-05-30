@@ -1,5 +1,6 @@
 class Node:
   pass
+  pass
 
 class Edge:
   pass
